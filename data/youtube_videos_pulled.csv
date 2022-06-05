@@ -1,0 +1,36 @@
+,video_id,video_title,upload_date,view_count,like_count,comment_count
+0,sugvnHA7ElY,Python Tutorial: if __name__ == &#39;__main__&#39;,2015-03-23,1737874,48090,1506
+1,jCzT9XFZ5bw,"Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters",2016-08-19,759546,25478,822
+2,ZDa-Z5JzLYM,Python OOP Tutorial 1: Classes and Instances,2016-06-20,3365786,89838,3432
+3,bD05uGo_sVI,Python Tutorial: Generators - How to use them and the benefits you receive,2015-08-17,716118,16911,612
+4,GfxJYp9_nJA,Python Tutorial: Namedtuple - When and why should you use namedtuples?,2015-07-07,86319,2430,94
+5,daefaLgNkw0,Python Tutorial for Beginners 5: Dictionaries - Working with Key-Value Pairs,2017-05-17,989425,23667,703
+6,NIWwJbo-9_8,Python Tutorial: Using Try/Except Blocks for Error Handling,2015-11-13,498720,10415,444
+7,-ARI4Cz-awo,"Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting",2017-03-15,388011,10043,268
+8,swU3c34d2NQ,Programming Terms: Closures - How to Use Them and Why They Are Useful,2016-03-08,305265,6878,280
+9,6iF8Xb7Z3wQ,Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops,2017-05-17,607608,15164,434
+10,rq8cL2XMM5M,Python OOP Tutorial 3: classmethods and staticmethods,2016-07-11,1200465,34594,984
+11,KLEDKgMmbBI,Git Tutorial: Using the Stash Command,2015-04-17,204524,4510,177
+12,5iWhQWVXosU,Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac &amp; Linux),2018-02-01,125246,3584,232
+13,IolxqkL7cD8,Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows),2018-02-01,129071,4740,212
+14,3ohzBxoFHAY,Python OOP Tutorial 5: Special (Magic/Dunder) Methods,2016-08-08,664891,20989,487
+15,N5vscPTWKOk,Python Tutorial: virtualenv and why you should use virtual environments,2015-04-14,678899,10765,521
+16,3dt4OGnU5sM,Python Tutorial: Comprehensions - How they work and why you should be using them,2015-08-24,408411,10383,465
+17,5qQQ3yzbKp8,Programming Terms: Mutable vs Immutable,2015-07-08,82035,2257,113
+18,jTYiNjvnHZY,Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?,2018-10-24,284027,8710,285
+19,ZL-LhaaMTTE,"Understanding Binary, Hexadecimal, Decimal (Base-10), and more",2014-12-15,151769,3093,188
+20,x3v9zMX1s4s,"Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)",2016-02-09,109820,3393,154
+21,BJ-VvGyQxho,Python OOP Tutorial 2: Class Variables,2016-06-23,1355651,47567,1422
+22,QVdf0LgmICw,Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements,2016-12-20,270313,8650,315
+23,RSl87lqOXDE,Python OOP Tutorial 4: Inheritance - Creating Subclasses,2016-07-25,1013647,32050,1086
+24,DEwgZNC-KyE,Preparing for a Python Interview: 10 Things You Should Know,2015-10-11,864020,16978,505
+25,kr0mpwqttM0,Programming Terms: First-Class Functions,2016-02-11,226769,7049,408
+26,WxUVU0b95Oc,Linux/Mac Terminal Tutorial: How To Use The cURL Command,2016-06-09,156237,3153,70
+27,5cvM-crlDvg,Python Tutorial: str() vs repr(),2015-06-15,101956,2705,75
+28,a7EjmdQzPqY,Programming Terms: Memoization,2015-10-28,57320,2077,88
+29,9Os0o3wzS_I,Python Tutorial for Beginners 8: Functions,2017-05-17,868076,17312,727
+30,YYXdXT2l-Gg,Python Tutorial for Beginners 1: Install and Setup for Mac and Windows,2017-05-17,2217794,25406,1004
+31,UaKZ4wKytcA,Programming Terms: Idempotence,2015-06-23,37571,1072,40
+32,KlBPCzcQNU8,Python Tutorial: Decorators With Arguments,2017-03-27,70575,2085,100
+33,Kg1Yvry_Ydk,Python Tutorial: VENV (Mac &amp; Linux) - How to Use Virtual Environments with the Built-In venv Module,2019-04-02,163192,5282,188
+34,ajrtAuDg3yw,Python Tutorial: Slicing Lists and Strings,2015-10-29,322384,6078,245
